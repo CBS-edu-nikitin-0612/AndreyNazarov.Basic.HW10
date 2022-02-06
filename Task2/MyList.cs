@@ -1,6 +1,6 @@
 ﻿namespace Task2
 {
-    internal class MyList<T>
+    public class MyList<T>
     {
         private T[] array;
         private int lastIndex = 0;
